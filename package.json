@@ -1,0 +1,27 @@
+{
+  "name": "zihan-sun-portfolio",
+  "version": "1.0.0",
+  "description": "Zihan Sun's Personal Portfolio Website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.5"
+  },
+  "keywords": [
+    "portfolio",
+    "vue3",
+    "personal-website",
+    "machine-learning",
+    "blockchain"
+  ],
+  "author": "Zihan Sun",
+  "license": "MIT"
+}
